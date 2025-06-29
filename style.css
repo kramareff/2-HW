@@ -117,7 +117,8 @@ select {
 }
 
 table {
-    border-collapse: collapse; /* Стили для таблицы */
+    border-collapse: collapse;
+    font-size: 14px; /* Стили для таблицы */
 }
 
 th, td {
